@@ -11,17 +11,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 </details>
 
-## Update 1.2
 
-- Update 1.2 - Mac OS BigSur 11.2.2 upgrade
-
-## Update 1.1 
-
-
-- Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
-
-- Update 1.1 - Sleep now working also thanks to hackintool! 
-<!-- omit in toc -->
 ## Hardware
 
 | **HP** | Detail                                                  |
