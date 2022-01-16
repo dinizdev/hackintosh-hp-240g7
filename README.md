@@ -4,8 +4,8 @@
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
-[![macOS](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://support.apple.com/en-us/HT211683)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macos-monterey-brightgreen.svg)](https://support.apple.com/en-us/HT211683)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
 [Mac OS Monterey 12.1 Proof](https://i.imgur.com/hLVxbfj.png)
 
