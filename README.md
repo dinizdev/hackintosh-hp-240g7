@@ -7,7 +7,7 @@ OpenCore config for Hackintosh OpenCore HP ProBook 240 G7.
 [![macOS](https://img.shields.io/badge/macos-monterey-brightgreen.svg)](https://support.apple.com/en-us/HT211683)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
-[Mac OS Monterey 12.1 Proof](https://imgur.com/a/821AxKM)
+## Mac OS Monterey 12.1 Proof
 ![alt text](https://i.imgur.com/27PQtMI.png)
 
 </details>
