@@ -7,9 +7,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 [![macOS](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://support.apple.com/en-us/HT211683)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
-[Mac OS BigSur 11.2.2 Proof](https://i.ibb.co/fHnRvQd/43-C318-D7-F6-C1-4505-98-F3-BE59228-B5-A48.png)
-
-[Mac OS Catalina 10.15.7 Proof](https://i.imgur.com/hLVxbfj.png)
+[Mac OS Monterey 12.1 Proof](https://i.imgur.com/hLVxbfj.png)
 
 </details>
 
@@ -29,34 +27,26 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 | **HP** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Model Name      | HP Elitebook 840 G7      |
-| CPU              | Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (max 4.20Ghz) Comet Lake             |
+| CPU              | Intel(R) Core(TM) i5-8250u CPU @ 1.60GH Kaby Lake             |
 | RAM           | 8 GB 2400 MHz DDR4    |
 | Graphic Card | Intel® UHD Graphics 620                     |
-| Wi-Fi             | BCM94360CS2 |
-| Sound       | Realtek ALC285                       |
+| Wi-Fi             | Intel 3168 |
+| Sound       | Realtek ALC236                       |
 
 ## Working 100% 
 
 - Turbo boost and CPU frequency stage.
 - Intel® UHD Graphics 620
 - Audio Realtek
+- Microphone
 - 3.5mm Combojack
-- USB 3.0 and Type-C Ports (Port Mapping with ThunderBolt 3)
+- USB 3.0 ( USB Mapping )
 - Touchpad (14 gestures are working)
 - Battery status
 - Camera
-- Wi-FI
+- Wi-FI + BT
 - Sleep/Wake
 
-## Not Working!
-- Fingerprint
-- Microphone
 
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
-  - MacBook Pro 16,4
-
-Don't forget to commit and we will maybe fix the 2 things left! Everything is working flawless besides Microphone and Fingerprint sensor! 
-
-
-
-*1.1 Updated EFI Folder
+  - MacBook Pro 14,1
