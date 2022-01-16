@@ -41,3 +41,9 @@ OpenCore config for Hackintosh OpenCore HP ProBook 240 G7.
 
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
   - MacBook Pro 14,1
+
+#### Credits
+- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
+- [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) for [itlwm](https://github.com/OpenIntelWireless/itlwm)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) for [Heliport Intel Wi-Fi Client](https://github.com/OpenIntelWireless/HeliPort)
