@@ -1,5 +1,5 @@
 
-#  Mac OS BigSur|Catalina HP EliteBook 840 G7
+#  Mac OS Monterey HP ProBook 240 G7
 <img align="right" src="https://outletclick.com/media/catalog/product/cache/15/image/9df78eab33525d08d6e5fb8d27136e95/6/e/6eb20ear_.png" width="200px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
