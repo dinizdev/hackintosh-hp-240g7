@@ -38,6 +38,9 @@ OpenCore config for Hackintosh OpenCore HP ProBook 240 G7.
 - Wi-FI + BT
 - Sleep/Wake
 
+## Not Working!
+
+- Shutdown 
 
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
   - MacBook Pro 14,1
